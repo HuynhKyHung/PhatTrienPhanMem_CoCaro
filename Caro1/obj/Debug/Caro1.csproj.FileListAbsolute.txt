@@ -1,0 +1,10 @@
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\bin\Debug\Caro1.exe.config
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\bin\Debug\Caro1.exe
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\bin\Debug\Caro1.pdb
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.csprojAssemblyReference.cache
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.Form1.resources
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.Properties.Resources.resources
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.csproj.GenerateResource.cache
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.exe
+C:\Users\CCLaptop.com\Desktop\CR\Caro1\Caro1\obj\Debug\Caro1.pdb
